@@ -1,10 +1,10 @@
-# Kosbling Studio 🛠️
+# Kosbling AI Studio 🛠️
 
 > **Digital workforce infrastructure for the solo founder era.**
 
-We started by helping DIY makers turn their hobbies into real businesses — building e-commerce tools for the global handcraft community under [kosmart](https://kosbling.com). Then the AI Agent era arrived, and we saw something bigger.
+We started by helping DIY makers turn their hobbies into real businesses — building e-commerce tools for the global handcraft community under [kosmart](https://kosbling.ai). Then the AI Agent era arrived, and we saw something bigger.
 
-Today, Kosbling Studio is building the infrastructure that lets **individual creators and solo founders hire, deploy, and manage their own digital workforce** — without a team, without overhead, without limits.
+Today, Kosbling AI Studio is building the infrastructure that lets **individual creators and solo founders hire, deploy, and manage their own digital workforce** — without a team, without overhead, without limits.
 
 ---
 
@@ -33,7 +33,7 @@ We're committed to open-sourcing the tools we build and use ourselves:
 
 | Project | Description |
 |---|---|
-| [OpenClaw Kosbling Edition](https://github.com/Kosbling-ai/openclaw-kosbling) | Our fork of OpenClaw — a customized AI agent runtime with model isolation, cost controls, and business workflow integrations |
+| [OpenClaw Kosbling Edition](https://github.com/kosbling-ai/openclaw) | Our fork of OpenClaw — a customized AI agent runtime with model isolation, cost controls, and business workflow integrations |
 
 ---
 
@@ -49,9 +49,10 @@ We're committed to open-sourcing the tools we build and use ourselves:
 
 ## Get in Touch
 
-- 🌐 [kosbling.com](https://kosbling.com)
+- 🌐 [kosbling.ai](https://kosbling.ai)
 - 🐦 [@playwhatai](https://x.com/playwhatai)
-- 📬 [github@kosbling.com](mailto:github@kosbling.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chao-huang-64070761)
+- 📬 [github@kosbling.ai](mailto:github@kosbling.ai)
 - 📍 Hong Kong
 
 ---
