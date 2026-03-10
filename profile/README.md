@@ -17,10 +17,11 @@ Kosbling AI Studio builds tools, runtime patterns, and reusable skills that help
 |---|---|
 | [OpenClaw Kosbling Edition](https://github.com/Kosbling-ai/openclaw) | Our OpenClaw fork for production agent operations, model isolation, and business workflow integration |
 | [claw-site-skills](https://github.com/Kosbling-ai/claw-site-skills) | Shared site-operation skills that teach OpenClaw how to use real websites more effectively |
+| [kosbling-skills](https://github.com/Kosbling-ai/kosbling-skills) | Kosbling’s maintained skill collection for production agent workflows |
 
-## Why `claw-site-skills`
+## Why these skill repos exist
 
-Most real business tools still live behind browser UIs. We created `claw-site-skills` as a shared place for contributors to document stable navigation paths, blockers, guardrails, and observed workflows for mainstream websites.
+Most real business tools still live behind browser UIs. We keep dedicated skill repositories so contributors can document stable navigation paths, blockers, guardrails, and reusable operating patterns for mainstream websites and live business workflows.
 
 If you’re building practical agent workflows for seller centers, dashboards, support systems, or admin panels, we’d love to compare notes.
 
