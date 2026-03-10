@@ -1,60 +1,32 @@
 # Kosbling AI Studio 🛠️
 
-> **Digital workforce infrastructure for the solo founder era.**
+> Building open infrastructure for real-world AI operators.
 
-We started by helping DIY makers turn their hobbies into real businesses — building e-commerce tools for the global handcraft community under [kosmart](https://kosbling.ai). Then the AI Agent era arrived, and we saw something bigger.
+Kosbling AI Studio builds tools, runtime patterns, and reusable skills that help small teams and solo founders deploy AI agents against messy real business surfaces — not just clean APIs.
 
-Today, Kosbling AI Studio is building the infrastructure that lets **individual creators and solo founders hire, deploy, and manage their own digital workforce** — without a team, without overhead, without limits.
+## What we care about
 
----
+- **Agent runtime infrastructure**
+- **Cost-aware production workflows**
+- **Browser-first operations on mainstream websites**
+- **Reusable skills for real business systems**
 
-## Our Vision
+## Open-source projects
 
-**1 million solo founders. $1M annual revenue each. 90%+ of daily work delegated to digital employees.**
-
-We believe the next wave of entrepreneurship won't be built by large teams — it'll be built by empowered individuals backed by intelligent agents. Our job is to make that possible.
-
----
-
-## What We're Building
-
-### 🤖 Digital Employee Ecosystem
-A recruiter community and marketplace where solo founders can discover, hire, and deploy AI agents tailored to their business — from customer support to content creation to operations.
-
-### 🔧 Open-Source Agent Infrastructure
-We're committed to open-sourcing the tools we build and use ourselves:
-
-- **Commercial automation deployment frameworks** — battle-tested patterns for shipping agent workflows in production
-- **Token cost control & memory optimization** — practical techniques for keeping AI costs sane at scale
-- **Dynamic model routing** — smart routing across providers based on task type, cost, and latency
-- **Business-specific agent skill configs** — ready-to-deploy agent personas for real-world use cases
-
-### 📦 Open-Source Projects
-
-| Project | Description |
+| Project | What it does |
 |---|---|
-| [OpenClaw Kosbling Edition](https://github.com/kosbling-ai/openclaw) | Our fork of OpenClaw — a customized AI agent runtime with model isolation, cost controls, and business workflow integrations |
+| [OpenClaw Kosbling Edition](https://github.com/Kosbling-ai/openclaw) | Our OpenClaw fork for production agent operations, model isolation, and business workflow integration |
+| [claw-site-skills](https://github.com/Kosbling-ai/claw-site-skills) | Shared site-operation skills that teach OpenClaw how to use real websites more effectively |
 
----
+## Why `claw-site-skills`
 
-## The Team
+Most real business tools still live behind browser UIs. We created `claw-site-skills` as a shared place for contributors to document stable navigation paths, blockers, guardrails, and observed workflows for mainstream websites.
 
-| | |
-|---|---|
-| **Bruce Huang** | Founder. Background at Alibaba & Tencent. Building the vision. |
-| **Cookie** | Technical Co-founder. AI developer. Makes things actually work. |
-| **Miki & Tryan** | Brand & Community. The humans behind the voice. |
+If you’re building practical agent workflows for seller centers, dashboards, support systems, or admin panels, we’d love to compare notes.
 
----
-
-## Get in Touch
+## Links
 
 - 🌐 [kosbling.ai](https://kosbling.ai)
+- 📬 [github@kosbling.com](mailto:github@kosbling.com)
 - 🐦 [@playwhatai](https://x.com/playwhatai)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chao-huang-64070761)
-- 📬 [github@kosbling.ai](mailto:github@kosbling.ai)
-- 📍 Hong Kong
-
----
-
-*We're early. Things are moving fast. If you're building something with AI agents or just curious about the solo founder future — say hi.*

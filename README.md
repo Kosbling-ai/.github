@@ -1,1 +1,1 @@
-# .github
+# Kosbling-ai community profile assets
